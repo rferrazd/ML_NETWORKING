@@ -1,0 +1,10 @@
+/Users/robertagarcia/Desktop/FINAL-PROJECT/neural-network/target/release/deps/libfdeflate-5286ee524823bb96.rmeta: /Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/lib.rs /Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/compress.rs /Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/decompress.rs /Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/tables.rs
+
+/Users/robertagarcia/Desktop/FINAL-PROJECT/neural-network/target/release/deps/libfdeflate-5286ee524823bb96.rlib: /Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/lib.rs /Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/compress.rs /Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/decompress.rs /Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/tables.rs
+
+/Users/robertagarcia/Desktop/FINAL-PROJECT/neural-network/target/release/deps/fdeflate-5286ee524823bb96.d: /Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/lib.rs /Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/compress.rs /Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/decompress.rs /Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/tables.rs
+
+/Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/lib.rs:
+/Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/compress.rs:
+/Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/decompress.rs:
+/Users/robertagarcia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.4/src/tables.rs:
